@@ -9,7 +9,7 @@ name: Likeable IT
 description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ./images/flat-300.png
+avatar: http://likeableit.com/images/flat-300.png
 
 #
 # Flags below are optional
